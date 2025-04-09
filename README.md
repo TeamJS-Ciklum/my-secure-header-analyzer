@@ -1,3 +1,5 @@
+![Secure Headers Icon](./src/assets/secure-headers-image.jpeg)
+
 # 🔐 Secure Headers Analyzer Chrome Extension
 
 **A Chrome Extension to analyze security-related HTTP headers of the active tab, following best practices from the [OWASP Secure Headers Project](https://owasp.org/www-project-secure-headers/). Built with React, TypeScript, and Vite.**
