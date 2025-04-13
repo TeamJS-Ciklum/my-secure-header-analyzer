@@ -127,10 +127,10 @@ Here’s what’s planned next:
 
 ## 🤝 Contributing
 
-Got ideas to improve this tool? Found a bug? Open a [Pull Request](https://github.com/shabbir-ciklum/my-secure-headers-analyzer/pulls) or [Issue](https://github.com/yourusername/my-secure-headers-analyzer/issues)!
+Got ideas to improve this tool? Found a bug? Open a [Pull Request](https://github.com/shabbir-ciklum/my-secure-headers-analyzer/pulls) or [Issue](https://github.com/shabbir-ciklum/my-secure-headers-analyzer/issues)!
 
 ---
 
 ## 📜 License
 
-MIT © [Syed Shabbir](https://github.com/shabbir-ciklum)
+MIT © [Syed Shabbir Haider](https://github.com/shabbir-ciklum)
