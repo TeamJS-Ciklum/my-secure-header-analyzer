@@ -127,7 +127,7 @@ Here’s what’s planned next:
 
 ## 🤝 Contributing
 
-Got ideas to improve this tool? Found a bug? Open a [Pull Request](https://github.com/shabbir-ciklum/my-secure-headers-analyzer/pulls) or [Issue](https://github.com/shabbir-ciklum/my-secure-headers-analyzer/issues)!
+Got ideas to improve this tool? Found a bug? Open a [Pull Request](https://github.com/shabbir-ciklum/my-secure-headers-analyzer/pulls) or [Issue](https://github.com/TeamJS-Ciklum/my-secure-header-analyzer/issues)!
 
 ---
 
